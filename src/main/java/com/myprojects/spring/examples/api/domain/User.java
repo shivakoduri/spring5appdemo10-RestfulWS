@@ -1,5 +1,5 @@
 
-package com.myprojects.spring.examples.spring5RestWS.domain;
+package com.myprojects.spring.examples.api.domain;
 
 import java.io.Serializable;
 import java.util.HashMap;
