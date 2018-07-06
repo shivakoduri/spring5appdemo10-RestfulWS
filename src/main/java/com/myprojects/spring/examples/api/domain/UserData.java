@@ -1,9 +1,8 @@
 package com.myprojects.spring.examples.api.domain;
 
-import java.io.Serializable;
 import java.util.List;
 
-public class UserData implements Serializable {
+public class UserData {
 
     List<User> data;
 
